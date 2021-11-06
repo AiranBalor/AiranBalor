@@ -1,4 +1,35 @@
-### Hi there 👋
+### Приветствую!👋 Меня зовут Илья - я веб-разработчик.
+
+- 👨‍🎓 Выпускник Яндекс.Практикума
+- ⚡ Изучаю TypeScript, React.js, Redux, Next.js
+- В настоящее время ищу работу фронтенд-разработчиком
+
+### Контакты:
+- email: korotkov-i@internet.ru
+- telegram: @KorIlya
+
+### Мои навыки:
+
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+
+<br />
+
+### Github Stats:
+
+<a href="https://github.com/AiranBalor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiranBalor&theme=nord&hide_langs_below=1&layout=compact" />
+</a>
+<a href="https://github.com/AiranBalor">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AiranBalor&show_icons=true&theme=nord&line_height=27" />
+</a>
 
 <!--
 **AiranBalor/AiranBalor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
