@@ -26,7 +26,7 @@
 ### Github Stats:
 
 <a href="https://github.com/AiranBalor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiranBalor&theme=nord&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiranBalor&theme=nord&hide_langs_below=1&layout=compact&line_height=27" />
 </a>
 <a href="https://github.com/AiranBalor">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AiranBalor&show_icons=true&theme=nord&line_height=27" />
