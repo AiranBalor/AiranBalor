@@ -1,10 +1,10 @@
-### Приветствую!👋 Меня зовут Илья - я фронтенд-разработчик.
+### Привет!👋 Я Илья, занимаюсь разработкой.
 
 - 👨‍🎓 Выпускник Яндекс.Практикума
-- ✨ В профессии уже 1 год, и намерен развиваться дальше
-- ⚡ Пишу на JS, React, Redux, TypeScript, Node.js
+- ✨ В профессии уже 3 года
+- ⚡ Фуллстек-разработчик (пишу на React + Node.js)
 - 🌱 Активно изучаю новые практики в разработке, чтобы сделать свой код лучше и чище. Например, недавно познакомился с архитектурой FSD для фронтенда.
-- 🔭 В настоящее время ищу позицию фронтенд разработчика. Параллельно работаю во фрилансе.
+- 🔭 В настоящее время работу активно не ищу, однако предложения готов рассмотреть
 
 ### Контакты:
 - email: korotkov-i@internet.ru
@@ -18,6 +18,7 @@
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Redux" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
+<img align="left" alt="Redux" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/effector/effector.png" />
 <img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
